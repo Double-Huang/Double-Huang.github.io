@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://doublehuang1.gitee.io</id>
+    <title>程序员秘录</title>
+    <updated>2020-06-13T09:39:14.287Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://doublehuang1.gitee.io"/>
+    <link rel="self" href="https://doublehuang1.gitee.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://doublehuang1.gitee.io/images/avatar.png</logo>
+    <icon>https://doublehuang1.gitee.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 程序员秘录</rights>
+    <entry>
+        <title type="html"><![CDATA[程序员书单|书在精不在多]]></title>
+        <id>https://doublehuang1.gitee.io/post/shudan/</id>
+        <link href="https://doublehuang1.gitee.io/post/shudan/">
+        </link>
+        <updated>2020-06-13T08:51:54.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>持续更新中…2020年4月21日更</p>
+</blockquote>
+<h3 id="下载方式">下载方式：</h3>
+<p>1、微信关注公众号**“程序员秘录”**，回复 <strong>书单</strong>  即可获取最新的书单PDF下载链接；</p>
+<p>2、点击书名即可跳转下载链接。</p>
+<p>**注：**链接失效，微信公众号留言，小编看到会补链；<strong>如有侵权行为，联系必删。</strong></p>
+<hr>
+<h1 id="规范">规范</h1>
+<ul>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438024748" target="_blank">阿里巴巴Java开发手册-华山版.pdf</a><br/></li>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438024816" target="_blank">阿里工程师的自我修养.pdf</a><br/></li>
+</ul>
+<h1 id="java">Java</h1>
+<ul>
+<li>
+<p><a href="http://ct.doublehuang.xyz/file/19035900-438024199" target="_blank">Head First Java.第二版.中文完整高清版.pdf</a><br/></p>
+</li>
+<li>
+<p><a href="http://ct.doublehuang.xyz/dir/19035900-38518861-32bdf5" target="_blank">Java从入门到精通（第3版）</a><br/></p>
+</li>
+<li>
+<p><a href="http://ct.doublehuang.xyz/file/19035900-438024334" target="_blank">《疯狂Java讲义》扫描版[PDF].PDF</a><br/></p>
+</li>
+<li>
+<p><a href="http://ct.doublehuang.xyz/file/19035900-438024739" target="_blank">Java编程思想第4版.pdf</a><br/></p>
+</li>
+</ul>
+<h1 id="数据库">数据库</h1>
+<ul>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438504084" target="_blank">SQL基础教程.第2版.pdf</a><br/></li>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438024289" target="_blank">SQL必知必会(第3版).pdf</a><br/></li>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438024262" target="_blank">MySQL必知必会（文字第五版）.pdf</a><br/></li>
+</ul>
+<h1 id="前端web">前端WEB</h1>
+<ul>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438504218" target="_blank">HTML5与CSS3基础教程（第8版）.pdf</a><br/></li>
+</ul>
+<h1 id="linux">Linux</h1>
+<ul>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438024406" target="_blank">LINUX 就该这么学.pdf</a><br/></li>
+</ul>
+<h1 id="算法">算法</h1>
+<ul>
+<li><a href="http://ct.doublehuang.xyz/file/19035900-438504256" target="_blank">算法图解.pdf</a><br/></li>
+</ul>
+<p>书单持续更新中，欢迎关注公众号，获取最新消息</p>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://cdn.nlark.com/yuque/0/2020/png/774753/1587470088111-291c0866-3013-408a-a5a5-ef6ef950aea9.png?x-oss-process=image/resize,w_1500" alt="img" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
